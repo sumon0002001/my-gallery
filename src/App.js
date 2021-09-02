@@ -5,11 +5,12 @@ import Signup from './comps/Signup';
 import Title from './comps/Title';
 import UploadForm from './comps/UploadForm';
 import { Container } from "react-bootstrap"
+import { AuthProvider } from './context/AuthContext';
 
 function App() {
   const [selectedImage, setSelectedImage] = useState()
   return (
-    
+    <AuthProvider>
     <div className="App">
       <Container
     className="d-flex align-items-center justify-content-center"
@@ -26,6 +27,7 @@ function App() {
       <Modal selectedImage={selectedImage} 
       setSelectedImage={setSelectedImage}/>)}
     </div>
+    </AuthProvider>
     
   );
 }
