@@ -1,4 +1,4 @@
-<h3 align="center">Catalogue of Recipes</h3>
+<h3 align="center">My Gallery</h3>
 
 <div align="center">
 
@@ -25,9 +25,8 @@
 - CSS3
 - Bootstrap
 - JavaScript
-- React Testing Library
-- Redux
-- Redux thunk
+
+
 
 
 ## Getting Started
@@ -45,9 +44,9 @@ To get a local copy up and running follow these simple example steps.
 - Open Terminal
 - Change directory to folder to download repository
 - Use `cd <file-path>`
-- Run `git clone https://github.com/sumon0002001/catalogue-recipe/`
-- Enter the project's folder `cd catalogue-recipe`
-- This projects uses the https://www.themealdb.com/ API to get photos. 
+- Run `git clone https://github.com/sumon0002001/my-gallery/`
+- Enter the project's folder `cd my-gallery`
+
   
 
 To make any change,
@@ -95,10 +94,7 @@ Give a ⭐️ if you like this project!
 - W3Schools
 - Font Awesome
 - Javascript
-- React Testing Library
-- Redux
-- Redux-thunk
-- Unsplash
+
 
 ## 📝 License
 
