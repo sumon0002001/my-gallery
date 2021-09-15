@@ -13,7 +13,7 @@
 
 ## Live Link Demo
 
-[Catalogue of Recipes](http://testaccounts.xyz/)
+[My Gallery](http://testaccounts.xyz/)
 
 ## Project videos
 
